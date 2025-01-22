@@ -56,6 +56,7 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 ## 💻 Programming Languages
 <p align="center">
     <img src="https://img.shields.io/badge/Programming%20Languages-Python-blue?style=for-the-badge&logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/Programming%20Languages-Bash-black?style=for-the-badge&logo=gnu-bash" alt="Bash" />
 </p>
 
 ## 🔗 Key Projects
