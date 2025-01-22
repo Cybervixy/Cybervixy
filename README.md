@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/victoriasimonomaojo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🎯 Objective
-As The Cyber Catalyst, I am dedicated to empowering individuals and organizations with practical cybersecurity knowledge and solutions. My passion lies in cybersecurity education, malware analysis, and incident response. I aim to inspire and protect the digital world through technical expertise and meaningful collaborations.
+I am a passionate cybersecurity professional with expertise in Digital Forensis,  threat intelligence, and incident response. My goal is to secure digital environments and help organizations navigate the Dynamic world of cybersecurity. With hands-on experience in tools like Autopsy, FTK, Burpsuit, Wireshark, OSINT, I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
 
 ## 🛠️ Skills
 | Skill                                         | Associated Project                                      |
