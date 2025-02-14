@@ -68,5 +68,5 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [Simonvix96@gmail.com](mailto:Simonvix96@gmail.com)
+- 📧 Email: 
 - 💼 LinkedIn: [Victoria Simon Omaojo](https://www.linkedin.com/in/victoriasimonomaojo)
